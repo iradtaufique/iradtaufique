@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Taufique Iradukunda @iradtaufique
-- 👀 I’m interested in (Python, Django, DataScience,Javascript)
+- 👀 interested in -Python, -Django, -DataScience, -Javascript, and -Cloud Computing
 <!-- - 🌱 I’m currently learning ... -->
-- 💞️ I’m looking to collaborate on any project related to Python
 
 <!--- - 📫 How to reach me --->
 
